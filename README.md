@@ -1,5 +1,5 @@
 # DSAASSigmentMain
-foollow this steps to clone the repo and commit the code
+follow this steps to clone the repo and commit the code
 
 ---
 
